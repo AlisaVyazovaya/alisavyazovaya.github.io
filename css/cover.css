@@ -16,7 +16,7 @@
   letter-spacing: 0.15em;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .cover__title {
     font-size: 24px;
@@ -39,7 +39,7 @@
   color: #fef2f0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .cover__decorative {
     font-size: 200px;
@@ -55,7 +55,7 @@
   margin: 0 0 0 -135px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .cover__image {
     width: 150px;
