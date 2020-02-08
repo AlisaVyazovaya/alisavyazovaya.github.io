@@ -1,11 +1,11 @@
 .cards {
   position: relative;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   height: 100vh;
-  background: #f4b6aa;
   padding: 0 70px;
+  background: #f4b6aa;
 }
 
 @media screen and (max-width: 767px) {
@@ -31,13 +31,13 @@
 .card {
   display: flex;
   flex-direction: column;
-  text-align: center;
-  text-decoration: none;
-  width: calc(50% - 15px);
   box-sizing: border-box;
+  width: calc(50% - 15px);
   margin: 0 15px;
   padding: 50px;
   color: #373737;
+  text-align: center;
+  text-decoration: none;
   background: #fceae7;
 }
 
@@ -62,9 +62,9 @@
 
 .card__title {
   margin: 0 0 10px;
+  font-weight: 400;
   font-size: 28px;
   line-height: 1.1;
-  font-weight: 400;
 }
 
 .card__site {

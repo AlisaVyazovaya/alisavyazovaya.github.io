@@ -1,19 +1,19 @@
 .cover {
   position: relative;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   height: 100vh;
   background: #fff8f7;
 }
 
 .cover__title {
   z-index: 1;
-  font-size: 48px;
-  text-transform: uppercase;
   font-weight: normal;
-  text-align: center;
+  font-size: 48px;
   letter-spacing: 0.15em;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 767px) {
@@ -25,8 +25,8 @@
 }
 
 .cover__link {
-  text-decoration: none;
   color: black;
+  text-decoration: none;
 }
 
 .cover__link:hover {
@@ -35,8 +35,8 @@
 
 .cover__decorative {
   position: absolute;
-  font-size: 400px;
   color: #fef2f0;
+  font-size: 400px;
 }
 
 @media screen and (max-width: 767px) {

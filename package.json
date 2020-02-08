@@ -1,0 +1,16 @@
+{
+  "name": "alisavyazovaya.github.io",
+  "version": "1.0.0",
+  "description": "Page with my contacts and projects",
+  "devDependencies": {
+    "stylelint": "^13.0.0",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-recommended": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlisaVyazovaya/alisavyazovaya.github.io.git"
+  },
+  "author": "Alisa Vyazovaya",
+  "license": "ISC"
+}
