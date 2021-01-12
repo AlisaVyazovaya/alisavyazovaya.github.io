@@ -1,1 +1,1 @@
-Page with my contacts and projects: [alisavyazovaya.github.io](alisavyazovaya.github.io)
+Page with my contacts and projects: [alisavyazovaya.github.io](http://alisavyazovaya.github.io)
